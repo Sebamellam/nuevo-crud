@@ -1,0 +1,10 @@
+body{
+    background-color: blanchedalmond;
+    color: black;
+}
+*{
+    color: black;
+}
+#btnUpdate{
+    display: none;
+}
